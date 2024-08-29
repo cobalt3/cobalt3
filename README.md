@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cobalt3. 
-- 👀 I’m interested in nodejs react nextjs 
+- 👀 I’m interested in cloud solutions nodejs react nextjs 
 - 🌱 I’m currently learning develop a portal for dashboard
-- 💞️ I’m looking to collaborate on the next IN thing
+- 💞️ I’m looking to collaborate on the next AI-N thing
 - 📫 How to reach me ...
 
 <!---
